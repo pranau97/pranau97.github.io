@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pranau Kumar&#39;s Blog</title>
+    <link>//pranaukumar.me/posts/</link>
+    <description>Recent content in Posts on Pranau Kumar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>lpranaukumar@gmail.com (Pranau Kumar)</managingEditor>
+    <webMaster>lpranaukumar@gmail.com (Pranau Kumar)</webMaster>
+    <copyright>This work is licensed under a Unlicense license. All content is essentially public domain.</copyright>
+    <lastBuildDate>Sat, 14 Apr 2018 15:47:08 +0530</lastBuildDate>
+    
+	<atom:link href="//pranaukumar.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>//pranaukumar.me/posts/hello/</link>
+      <pubDate>Sat, 14 Apr 2018 15:47:08 +0530</pubDate>
+      <author>lpranaukumar@gmail.com (Pranau Kumar)</author>
+      <guid>//pranaukumar.me/posts/hello/</guid>
+      <description> Hello, world! print(&amp;quot;Hello, world!&amp;quot;)  </description>
+    </item>
+    
+  </channel>
+</rss>
